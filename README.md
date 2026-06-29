@@ -2,7 +2,7 @@
 
 A modern developer portfolio showcasing my projects, skills, and journey in technology. Built with performance, simplicity, and clean design in mind.
 
-> **Live Demo:** `https://anant723630-create.github.io/Portfolio/`
+> **Live Demo:** `https://portfolio.anant723630.workers.dev`
 
 ---
 
